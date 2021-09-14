@@ -21,4 +21,4 @@
 1. Download the latest `team5_X.X.X.crx` file from this repo
 1. Open Chrome and browse to: `chrome://extensions`
 1. Open a file browser window to the `.crx` file you just downloaded. Drag the `.crx` file into the Chrome window and click OK
-1. You may need to reboot Chrome, or click the Reload icon on the Team 5 icon on the Chrome Extensions (chrome://extensions) page
+1. You may need to reboot Chrome, or click the Reload icon on the Team 5 icon on the Chrome Extensions `chrome://extensions` page
