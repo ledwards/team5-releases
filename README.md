@@ -9,8 +9,8 @@
 1. In the upper-right of Chrome in the toolbar, click the puzzle piece button, find Team 5, and click the pin icon to pin the extension to your browser
 
 ## Setup
-1. On install, Chrome may send you to the Team 5 configuration page. If not, click the Team 5 icon in the upper-right toolbar
-1. Ask for the credentials to put in the credentials window
+1. Click the Team 5 icon in the upper-right toolbar
+1. Ask in Slack for the credentials
 1. Reboot Chrome
 
 ## Setup Airtable
