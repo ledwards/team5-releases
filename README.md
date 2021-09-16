@@ -1,7 +1,7 @@
 # team5-releases
 
 ## Install
-1. Download [team5_0.6.1.crx](https://github.com/ledwards/team5-releases/blob/main/team5_0.6.1.crx)
+1. Download [team5_0.6.2.crx](https://github.com/ledwards/team5-releases/blob/main/team5_0.6.2.crx)
 1. Install Google Chrome, if you haven't already: [https://www.google.com/chrome/](https://www.google.com/chrome/)
 1. Open Chrome and browse to: `chrome://extensions`
 1. Check the Developer Mode box in the upper-right corner
