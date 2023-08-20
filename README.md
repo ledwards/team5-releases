@@ -1,6 +1,6 @@
 # team5-releases
 
-## Install
+## Install or Update to New Release
 Note that this process has changed since Google Chrome no longer allows installing extensions from outside the Chrome Web Store. You will need to download the `.zip` file and install it manually. This mode is intended for software developers and testers, but works fine for our purposes.
 
 1. Download [team5_0.6.6.zip](https://github.com/ledwards/team5-releases/blob/main/team5_0.6.6.zip)
@@ -8,7 +8,7 @@ Note that this process has changed since Google Chrome no longer allows installi
 1. Open Chrome and browse to: `chrome://extensions`
 1. Check the Developer Mode box in the upper-right corner
 1. Click the Load Unpacked button in the upper-left corner
-1. Select the `team5_0.6.6` directory from the `.zip` file you just downloaded and click OK.
+1. Select the `dist` directory from the inside `.zip` file you just downloaded and click OK.
 1. In the upper-right of Chrome in the toolbar next to the location bar, click the puzzle piece button, find Team 5, and click the pin icon to pin the extension to your browser
 
 ## Setup
@@ -19,9 +19,3 @@ Note that this process has changed since Google Chrome no longer allows installi
 ## Setup Airtable
 1. Visit the Airtable [here](https://airtable.com/app2sG7tv5J0ekxkL/tbl4rx9WX0EKaM2zj/viwpXGlumYvP951Xg?blocks=hide)
 1. Wait for Lee to accept your request to join
-
-## Updating to New Releases
-1. Download the latest `team5_X.X.X.crx` file from this repo
-1. Open Chrome and browse to: `chrome://extensions`
-1. Open a file browser window to the `.crx` file you just downloaded. Drag the `.crx` file into the Chrome window and click OK
-1. You may need to reboot Chrome, or click the Reload icon on the Team 5 icon on the Chrome Extensions `chrome://extensions` page
